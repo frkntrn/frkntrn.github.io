@@ -3,5 +3,5 @@ layout: page
 permalink: /kilavuz/
 ---
 
-**--- belgesel ---**
+**belgesel**
 - [thoughtmaybe.com](thoughtmaybe.com)
