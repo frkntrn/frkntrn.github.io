@@ -3,4 +3,5 @@ layout: page
 permalink: /kilavuz/
 ---
 
-bilgi
+**belgesel**
+thoughtmaybe.com
