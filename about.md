@@ -4,4 +4,4 @@ permalink: /kilavuz/
 ---
 
 **--- belgesel ---**</br>
-![thoughtmaybe.com](thoughtmaybe.com)
+[thoughtmaybe.com](thoughtmaybe.com)
