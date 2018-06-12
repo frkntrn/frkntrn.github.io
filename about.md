@@ -8,5 +8,5 @@ permalink: /kilavuz/
 **belgesel**  
 [thoughtmaybe.com](http://thoughtmaybe.com)
 
-**etkileşimli bilim**
+**etkileşimli bilim**  
 [dinosaurpictures.org](http://dinosaurpictures.org/ancient-earth#240)
