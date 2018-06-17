@@ -8,9 +8,9 @@ permalink: /kilavuz/
 **belgesel**  
 [thoughtmaybe.com](http://thoughtmaybe.com)
 
-**yetkisiz erisim**
+**yetkisiz erisim**  
 [ctftime.org](http://ctftime.org)
 
-**yazılım**
-[hackerrank.com](http://hackerrank.com)
-[codewars.org](http://codewars.org)
+**yazılım**  
+[hackerrank.com](http://hackerrank.com)  
+[codewars.org](http://codewars.org)  
