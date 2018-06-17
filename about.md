@@ -13,4 +13,4 @@ permalink: /kilavuz/
 
 **yazılım**  
 [hackerrank.com](http://hackerrank.com)  
-[codewars.org](http://codewars.org)  
+[codewars.com](http://codewars.com)  
