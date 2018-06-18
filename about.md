@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pagej
 permalink: /kilavuz/
 ---
 **yayın**  
@@ -8,8 +8,9 @@ permalink: /kilavuz/
 **belgesel**  
 [thoughtmaybe.com](http://thoughtmaybe.com)
 
-**yetkisiz erisim**  
+**yetkisiz erişim**  
 [ctftime.org](http://ctftime.org)
+[0x00sec.org](https://0x00sec.org/)
 
 **yazılım**  
 [hackerrank.com](http://hackerrank.com)  
