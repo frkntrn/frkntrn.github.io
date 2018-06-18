@@ -9,7 +9,7 @@ permalink: /kilavuz/
 [thoughtmaybe.com](http://thoughtmaybe.com)
 
 **yetkisiz erişim**  
-[ctftime.org](http://ctftime.org)
+[ctftime.org](http://ctftime.org)  
 [0x00sec.org](https://0x00sec.org/)
 
 **yazılım**  
